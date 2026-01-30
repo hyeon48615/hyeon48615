@@ -35,8 +35,8 @@
 <div align= "center"> 
     <h2>🏅 Stats </h2>
     <div align= "center"> 
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeon48615&theme="/> 
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon48615&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>  -->
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyeon48615&theme=default"/> 
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeon48615&theme=default"/>
      </div> 
 </div>
 </br>
