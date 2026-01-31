@@ -44,6 +44,6 @@
     <h2>🧑‍💻 Contact me </h2>
     <div align= "center"> 
         <a href=mailto:hyeon48615@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyeon48615@gmail.com"> </a>
-        <a href="https://www.notion.so/2f94c00e54a38069bda6f1e546686076?source=copy_link"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>
+        <a target="_blank" href="https://www.notion.so/2f94c00e54a38069bda6f1e546686076?source=copy_link"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>
     </div>
 </div>
